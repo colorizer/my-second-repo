@@ -4,8 +4,9 @@
 - [x] Write code for comparing files
 - [x] Compare
 - [x] Debug
-- [ ] Add new features
+- [x] Add new features
+- [x] Make a cron table
+- [x] Automatically update cloud file
+- [x] Check files
 - [ ] Release
 - [ ] Create a twitter bot
-- [ ] Make a cron table
-- [ ] Automatically update cloud file
