@@ -3,7 +3,7 @@
 - [x] Make it available online
 - [x] Write code for comparing files
 - [x] Compare
-- [ ] Debug
+- [x] Debug
 - [ ] Add new features
 - [ ] Release
 - [ ] Create a twitter bot
