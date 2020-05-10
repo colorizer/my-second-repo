@@ -7,3 +7,5 @@
 - [ ] Add new features
 - [ ] Release
 - [ ] Create a twitter bot
+- [ ] Make a cron table
+- [ ] Automatically update cloud file
