@@ -6,3 +6,4 @@
 - [ ] Debug
 - [ ] Add new features
 - [ ] Release
+- [ ] Create a twitter bot
